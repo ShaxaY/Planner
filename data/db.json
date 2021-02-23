@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage Banner",
+      "details": "lorem ispum",
+      "complete": "false"
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ispum",
+      "complete": "true"
+    }
+  ]
+}
